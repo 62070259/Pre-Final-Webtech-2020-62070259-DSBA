@@ -1,0 +1,8 @@
+.card {
+    border: none;
+}
+
+div {
+    border-width: 0.1vw;
+    border-style: solid;
+}
